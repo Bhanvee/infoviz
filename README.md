@@ -1,2 +1,0 @@
-# infoviz
-Information Visualisation
